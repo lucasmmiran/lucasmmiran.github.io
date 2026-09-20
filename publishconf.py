@@ -5,9 +5,7 @@ import os
 sys.path.append(os.path.dirname(os.path.abspath(__file__)))
 from pelicanconf import *
 
-# Troque pela URL real do GitHub Pages, ex:
-# https://<usuario>.github.io  ou  https://<usuario>.github.io/<repo>
-SITEURL = 'https://lucasmmiranda.github.io'
+SITEURL = 'https://lucasmiran.github.io'
 
 RELATIVE_URLS = False
 
