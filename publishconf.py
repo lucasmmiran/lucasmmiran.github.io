@@ -5,7 +5,7 @@ import os
 sys.path.append(os.path.dirname(os.path.abspath(__file__)))
 from pelicanconf import *
 
-SITEURL = 'https://lucasmiran.github.io'
+SITEURL = 'https://lucasmmiran.github.io'
 
 RELATIVE_URLS = False
 
